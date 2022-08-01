@@ -18,4 +18,21 @@
 3.Masukkan code berikut!
 >![image](https://user-images.githubusercontent.com/109930428/182096489-32d6102a-d897-443b-8c6c-a31734657010.png)
 
-4.Buka folder  
+4.Buka folder routes -> web.php 
+
+5.Masukkan code ini!
+
+![image](https://user-images.githubusercontent.com/109930428/182103057-4c246316-c8f5-49d3-b9f8-76fd15e258de.png)
+
+6.Jika berhasil maka akan muncul tampilan seperti ini
+
+![image](https://user-images.githubusercontent.com/109930428/182103314-426a0776-8a4e-4f79-a988-a06789083e78.png)
+
+soal no 1
+
+-----------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/109930428/182103702-2bde94d6-a30f-4cbd-8c4f-4dfc074f2306.png)
+
+soal no 2
+
