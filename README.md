@@ -37,6 +37,3 @@ soal no 1
 soal no 2
 
 
-# KETERANGAN
-
--index berfungsi sebagai nama 
